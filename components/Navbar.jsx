@@ -99,7 +99,7 @@ const Navbar = () => {
                         </ul>
                     </div>
                     <div class="sticky top-[100vh]">
-                    <p className='uppercase tracking-widest text-btn_dark_blue'>Let's Connect</p>
+                    <p className='uppercase tracking-widest text-dark_blue'>Let's Connect</p>
                         <div className='flex items-center justify-between my-4 w-full'>
                             <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
                                 <FaLinkedinIn/>

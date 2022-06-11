@@ -9,8 +9,8 @@ module.exports = {
         colors: {
             bg_white: '#ecf0f3',
             bg_black: '#1f2937',
-            btn_dark_blue: '#5651e5',
-            btn_light_blue: '#709dff',
+            dark_blue: '#5651e5',
+            light_blue: '#709dff',
         },
     },
   },
